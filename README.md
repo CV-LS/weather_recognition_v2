@@ -22,7 +22,10 @@
 
 2. 安装各种依赖
 
-    
+## 数据
+
+[weather_datasets](https://pan.baidu.com/s/1SPPHhWEKUWzpkbU-w6fy0g?pwd=9osv)
+
 
 ## :zap: 快速上手
 
